@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on anything that makes me curios
+- 🌱 I’m currently learning anything I can
+- 💬 Ask me about anything
+- 📫 How to reach me: search my name in google
+- ⚡ Fun fact: 🇵🇷
+
 <!--
 **dathan/dathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
